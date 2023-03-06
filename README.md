@@ -1,13 +1,15 @@
 # puzzle-game
 
-## [live link](https://dist-mynxxqpkem.now.sh/)
 
-## Quick start
 
-- 👉 Download the [latest release](https://github.com/khyrulAlam/puzzle-game-javascript/archive/master.zip).
+# Static Website
+Download this Project and open with Live Server
 
-- 👉 cd project folder
+## Technologies used
 
-- 👉 npm install
+* HTML
+* CSS
+* JavaScript
 
-- 👉 npm run or yarn run
+# Enjoy !!
+
