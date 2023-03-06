@@ -1,4 +1,4 @@
-# puzzle-game
+# Puzzle-Game
 
 
 
